@@ -1,0 +1,5 @@
+backup.py
+fpl_data.db
+__pycache__/
+.idea/
+.vscode/
