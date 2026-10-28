@@ -249,7 +249,7 @@ with st.expander("ℹ️ How It Works & How to Read These Metrics", expanded=Fal
     * **Creative Output:** 70% Expected Assists ($xA$) + 30% Opta Creativity (delivery volume).
     * **Positional Fusion:**
       * **FWD:** Weighted 80% Attacking / 20% Creative.
-      * **MID:** Balanced 55% Attacking / 45% Creative.
+      * **MID:** Balanced 60% Attacking / 40% Creative.
       * **DEF:** 65% Primary Trait / 35% Secondary Trait (rewards both aerial center-backs and crossing full-backs).
 
     ---
